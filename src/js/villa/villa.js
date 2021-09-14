@@ -2,12 +2,12 @@ var vp=document.getElementById("dibujar");
 var papel = vp.getContext("2d");
 
 var vaca={
-    url:"villa/vaca.png",
+    url:"src/js/villa/vaca.png",
     cargaOK: false
 };
 
 var fondo={
-    url:"villa/tile.png",
+    url:"src/js/villa/tile.png",
     cargaOK: false
 };
 
